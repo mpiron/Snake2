@@ -3,3 +3,12 @@ versions/
 .venv/
 __pycache__/
 Snake.code-workspace
+
+# il est possible que les fichiers que vous essayez d’ignorer aient déjà été suivis par Git avant que vous n’ayez créé le fichier 
+# .gitignore. Dans ce cas, vous devrez supprimer les fichiers de l’index Git à l’aide de la commande 
+# Exécutez la commande suivante pour supprimer les fichiers de l’index Git:
+# git rm -r --cached .
+# Ajoutez les fichiers à nouveau en exécutant la commande suivante:
+# git add .
+# Enfin, committez les modifications en exécutant la commande suivante:
+# git commit -m "Ajout de .gitignore pour ignorer les dossiers versions, .venv et __pycache__"
