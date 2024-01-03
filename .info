@@ -1,0 +1,9 @@
+pour créer un environnement virtuel ; suivre la vidéo suivante: 
+https://youtu.be/GZbeL5AcTgw?si=gOrGoKQao9rr0p4x 
+les étapes:
+ - exécuter un fichier .py
+ - dans le terminal, utiliser la commandre   python -m venv .venv (crée un environnement virtuel dans le dossier .venv)
+ - cliquer en bas dans la barre d'état tout à droite, choisir .ven
+ - réouvrir un terminal python
+ - installer pygame pip install pygame
+ - éventuellement mettre à jour pip: python.exe -m pip install --upgrade pip

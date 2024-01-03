@@ -34,4 +34,3 @@ while running:
             pygame.quit()
             # petit message dans la console pour voir que nous sommes passé dans if
             print("fermeture du jeu")
-

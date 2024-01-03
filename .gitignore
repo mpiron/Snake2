@@ -1,1 +1,4 @@
-/snake.py
+/versions
+Snake.code-workspace
+.venv
+__pycache__
