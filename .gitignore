@@ -1,4 +1,5 @@
-/versions
+# Ignorer les dossier "versions, .venv et __pycache__ " et tout leur  contenu
+versions/
+.venv/
+__pycache__/
 Snake.code-workspace
-.venv
-__pycache__
